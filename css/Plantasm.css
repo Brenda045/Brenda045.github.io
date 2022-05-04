@@ -1,0 +1,110 @@
+html{
+	
+	font-size: 10px;
+	background-color: #FFFFFF;
+}
+
+body{
+	font-size: 19px;
+}
+header{
+	height: 14rem;
+	border: 10px solid #FFFFFF;
+	background-color: #FFFFFF;
+}
+
+aside{
+height: 50em;
+background-color: aqua; 
+}
+
+article{
+background-color: #FFFFFF;
+height:100em;
+margin-right:2em;
+margin-left:1em;
+
+}
+
+footer{
+height: 5em;
+border: 2px solid #717924;
+background-color: #717924;
+}
+
+
+
+.col-12-alinear-a-la-derecha{
+text-align: right;
+margin-top: 1.8em;
+}
+
+.container{
+margin-left: 10px;
+}
+p{
+
+	margin-left: 14px;
+font-family: 'Baloo Chettan 2', cursive;
+font-size: 1em;
+text-align: center;
+}
+
+ol{
+	margin-left: 14px;
+font-family: 'Baloo Chettan 2', cursive;
+font-size: 1em;
+	text-align: center;
+}
+
+
+.nav-link{
+margin-left: 30px;
+}
+
+
+h1{
+	font-family: 'Comfortaa', cursive;
+	font-size: 2.5rem;
+	color: #39241D;
+	text-align: center;
+
+}
+
+.remedio1{
+
+	 margin-bottom:9px;
+	margin-left: 35rem;
+		    display:block;
+	
+}
+
+#imagen{
+	width: 500px;
+	transition: width 2s; 
+}
+#imagen:hover{
+	width: 550px;
+	
+}
+
+#imagen1{
+	width: 500px;
+	transition: width 2s; 
+}
+#imagen1:hover{
+	width: 550px;
+	
+}	
+
+#imagen2{
+	width: 500px;
+	transition: width 2s; 
+}
+#imagen2:hover{
+	width: 550px;
+	
+}
+
+
+

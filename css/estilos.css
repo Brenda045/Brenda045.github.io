@@ -1,0 +1,82 @@
+
+
+
+html{
+	
+	font-size: 10px;
+	background-color:#FFFFFF;
+}
+
+body{
+	font-size: 19px;
+}
+header{
+	height: 14rem;
+	border: 10px solid #FFFFFF;
+	background-color: #FFFFFF;
+	
+	font-family: 'Baloo Chettan 2', cursive
+}
+
+aside{
+height: 50em;
+background-color: aqua; 
+}
+
+article{
+background-color:#FFFFFF;
+height:;
+margin-right:0em;
+margin-left:1.5em;
+
+}
+
+footer{
+height: 5em;
+border: 2px solid #717924;
+background-color: #717924;
+}
+
+
+
+
+.col-12-alinear-a-la-derecha{
+text-align: right;
+margin-top: 1.8em;
+}
+
+.container{
+margin-left: 10px;
+}
+p{
+margin-left: 14px;
+}
+.nav-link{
+margin-left: 35px;
+	font-family: 'Baloo Chettan 2', cursive;
+	font-size: 1.9rem;
+
+}
+
+
+.Texto
+{
+	text-align: center;
+	font-size: 2em;
+	font-family: 'Comfortaa', cursive;
+	color: #39241D;
+
+
+
+
+	
+video{
+	align-content: center;
+	
+}
+
+	
+.imagen1{
+	
+	margin-left: 40rem;
+}
